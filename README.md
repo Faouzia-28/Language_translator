@@ -64,7 +64,7 @@ This project uses the APYHub Translation API to translate text into different la
 -In the frontend (script.js), the API key is passed in the header
 headers: {
   "Content-Type": "application/json",
-  "apy-token": "YOUR_API_KEY_HERE"
+  "apy-token": "APY0xBfo5V8gybI2D9QiW8fAvy1RYfkJ0kYG9lb1cOKGMNhIRVp3OOt1ktmeLkx5fj"
 }
 
 Setup & Usage
